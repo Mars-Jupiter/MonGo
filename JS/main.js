@@ -4,3 +4,6 @@ function reload(id){
 function bC1(){
   reload("bClip1")
 }
+function bC2(){
+  reload("bClip2")
+}
